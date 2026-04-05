@@ -1,5 +1,5 @@
 ## About me:
-Hi i'm Guiba,i want to be a developer(13 year old)
+Hi i'm Guiba,i want to be a developer
 
 ## i am learning these programmings language:
 ![node](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
