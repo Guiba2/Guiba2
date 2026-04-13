@@ -2,11 +2,13 @@
 
 ![Banner](./banner/Banner_sem_Fundo.png)
 
-<img src="https://img.shields.io/badge/Or-Don't_Study-red?style=for-the-badge" height="40" />
+<img src="https://img.shields.io/badge/Or-Don't_Study-red?style=for-the-badge" height="80" />
 
 <!--![Badge](https://img.shields.io/badge/Or-Don't_Study-red?style=for-the-badge)-->
 
 </div>
+
+---
 
 ## Programming languages ​​that I use
 
@@ -17,4 +19,3 @@
 <br>
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
-
