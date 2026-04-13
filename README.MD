@@ -10,6 +10,11 @@
 
 ---
 
+## About Me
+
+I'm a **brazilian student interested in mathematics, programming, and cybersecurity.**
+Always learning and exploring new technologies.
+
 ## Programming languages ​​that I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
